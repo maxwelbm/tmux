@@ -5,7 +5,7 @@
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-- run, to check for syntax failures
+- Run, to check for syntax failures
 ```bash
 tmux source ~/.tmux.conf
 ```
