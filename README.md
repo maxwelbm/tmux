@@ -1,8 +1,6 @@
-# tmux-setup
-
 # Install
 
-###Mac OS / Linux
+### Mac OS / Linux
 
 ```sh
 bash <(curl -s https://raw.githubusercontent.com/MaxwelMazur/tmux-setup/main/install.sh)
