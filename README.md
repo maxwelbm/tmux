@@ -5,7 +5,7 @@
 ###Mac OS / Linux
 
 ```sh
-bash <(curl -s https://raw.githubusercontent.com/)
+bash <(curl -s https://raw.githubusercontent.com/MaxwelMazur/tmux-setup/main/install.sh)
 ```
 
 - Installing TPM 
