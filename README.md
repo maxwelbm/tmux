@@ -1,27 +1,17 @@
-# Install
-
-### Mac OS / Linux
+### Install Mac OS / Linux
 
 ```sh
 bash <(curl -s https://raw.githubusercontent.com/MaxwelMazur/tmux-setup/main/install.sh)
 ```
 
-- Installing TPM 
+### Reload config tmux, to check for syntax failures
 ```bash
-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+tmux source-file ~/.tmux.conf
 ```
 
-- Run, to check for syntax failures
-```bash
-tmux source ~/.tmux.conf
-```
+### Tips
 
-- Menu de janelas
-```
-Ctrl+b w
-```
-
-- Modo vim copiar e colar
-```
-Ctrl+[ enter Ctrl+]
-```
+| Description | shortcuts |
+|---|---|
+| Show all windows  | Ctrl + b w |
+| Mode vim copy and paste | Ctrl + [ enter Ctrl + ] |
